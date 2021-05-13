@@ -128,7 +128,7 @@ more easily put together complex UIs by thinking about each piece in isolation.
 ### Learn Once, Write Anywhere
 
 We won't be taking advantage of this feature of React as much during your time
-at Flatiron, but one great thing about React is that it works in a few different
+at Academy Xi, but one great thing about React is that it works in a few different
 environments. Once you learn the key concepts of working with React to create
 client-side web applications, you can also more easily learn React Native and
 write native mobile apps using React, or use tools like Next.js and Gatsby to
